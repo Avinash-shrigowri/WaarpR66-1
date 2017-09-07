@@ -64,11 +64,10 @@
       <optional>true</optional>
     </dependency>
     <dependency>
-    	<groupId>Oracle</groupId>
+    	<groupId>com.oracle</groupId>
     	<artifactId>ojdbc6</artifactId>
-    	<version>6</version>
-	    <optional>true</optional>
-    </dependency>
+    	<version>11.2.0.3</version>
+	</dependency>
     <dependency>
       <groupId>com.h2database</groupId>
       <artifactId>h2</artifactId>

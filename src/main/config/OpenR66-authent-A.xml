@@ -6,7 +6,7 @@
         <address>127.0.0.1</address>
         <port>6666</port>
         <isssl>False</isssl>
-        <keyfile>D:\GG\R66\certs\test-passwd.ggp</keyfile>
+        <keyfile>E:\GG\R66\certs\test-passwd.ggp</keyfile>
     </entry>
     <entry>
         <hostid>hostas</hostid>
@@ -14,7 +14,7 @@
         <port>6667</port>
         <isssl>True</isssl>
         <admin>True</admin>
-        <keyfile>D:\GG\R66\certs\test-passwd.ggp</keyfile>
+        <keyfile>E:\GG\R66\certs\test-passwd.ggp</keyfile>
     </entry>
     <entry>
         <hostid>hostb</hostid>
@@ -22,7 +22,7 @@
         <port>6676</port>
         <isssl>False</isssl>
         <isclient>False</isclient>
-        <keyfile>D:\GG\R66\certs\test-passwd2.ggp</keyfile>
+        <keyfile>E:\GG\R66\certs\test-passwd2.ggp</keyfile>
     </entry>
     <entry>
         <hostid>hostbs</hostid>
@@ -38,7 +38,7 @@
         <port>6670</port>
         <isssl>False</isssl>
         <isclient>True</isclient>
-        <keyfile>D:\GG\R66\certs\test-passwd3.ggp</keyfile>
+        <keyfile>E:\GG\R66\certs\test-passwd3.ggp</keyfile>
     </entry>
     <entry>
         <hostid>tests</hostid>
@@ -47,6 +47,6 @@
         <isssl>True</isssl>
         <admin>True</admin>
         <isclient>True</isclient>
-        <keyfile>D:\GG\R66\certs\test-passwd3.ggp</keyfile>
+        <keyfile>E:\GG\R66\certs\test-passwd3.ggp</keyfile>
     </entry>
 </authent>
